@@ -4,13 +4,13 @@
 ## This function creates a list that 
 # 1. sets a value to a matrix
 # 2. gets the value of the matrix
-# 3. sets the invers of the matrix
+# 3. sets the inverse of the matrix
 # 4. gets the value of the inverse matrix
 makeCacheMatrix <- function(x = matrix()) {
     # This function creates a list that 
     # 1. sets a value to a matrix
     # 2. gets the value of the matrix
-    # 3. sets the invers of the matrix
+    # 3. sets the inverse of the matrix
     # 4. gets the value of the inverse matrix
     inv <- NULL;
     set <- function(y) {
